@@ -7,24 +7,24 @@
       {
         "items":[
           {
-            "icon":"finish_shimmer_lilac",
-            "name":"Shimmer"
+            "icon":"skin_code_oily_texture",
+            "name":"Oily"
           }
         ],
         "header":"",
-        "section":"",
+        "section":"icons-skincode",
         "type":"icons-skincode"
       },
       
       {
         "items":[
           {
-            "icon":"finish_shimmer_lilac",
-            "name":"Shimmer"
+            "icon":"concern_pores",
+            "name":"Pores"
           }
         ],
         "header":"",
-        "section":"",
+        "section":"icons-concerns",
         "type":"icons-concerns",
         "target":{
 
@@ -35,41 +35,42 @@
         "items":[
 
         ],
-        "header":" ",
-        "description":" ",
-        "section":" ",
+        "header":"How does this work?",
+        "description":" Dermatologist designed skin quiz recommendations",
+        "cta_text": "Find Out"
+        "section":"cta_card",
         "type":"cta_card"
       },
       {
         "background_image":{
 
         },
-        "header":"",
-        "description":"",
+        "header":"What Your skincode means",
+        "description":"DSPT: Dry, sensitive, pigmented and tight (non-wrinkled) skin generally has acne breakouts"
         "type":"details-section",
         "items":[
 
         ],
-        "section":""
+        "section":"details-section"
       },
       
       {
         "background_image":{
 
         },
-        "header":"",
-        "description":"",
+        "header":"What your skin needs",
+        "description":"Skin goals listed below is all you need to achieve your dream skin. Watch out for these tags across all personalised routines and product recommendations.",
         "type":"needs-section",
         "items":[
 
         ],
         "tags":[
           {
-            "name":"",
-            "hex_background":""
+            "name": "skin soothing",
+            "hex_background":"80808"
           }
         ],
-        "section":""
+        "section":"needs-section"
       },
       
       {
@@ -80,12 +81,12 @@
 
             },
             "type":"ingredients",
-            "header":"",
-            "description":"",
+            "header":"Titanium Dioxide",
+            "description":"A natural powerhouse antioxdiants that protects skin",
             "tags":[
               {
-                "name":"",
-                "hex_background":""
+                "name":"skin soothing",
+                "hex_background":"80808"
               }
             ]
           }
@@ -106,12 +107,12 @@
                   "value":1
                 }
               ],
-              "name":"skingoal-1",
+              "name":"skin soothing",
               "type":"table-row"
             }
           ]
         },
-        "section":""
+        "section":"ingredients-scroll"
       }
     ]
   }
