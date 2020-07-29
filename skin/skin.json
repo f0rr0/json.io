@@ -1,1 +1,118 @@
-For JSON api reference
+{
+  "data":{
+    "header":"Robert",
+    "subheader":"Skin Analysis",
+    
+    "sections":[
+      {
+        "items":[
+          {
+            "icon":"finish_shimmer_lilac",
+            "name":"Shimmer"
+          }
+        ],
+        "header":"",
+        "section":"",
+        "type":"icons-skincode"
+      },
+      
+      {
+        "items":[
+          {
+            "icon":"finish_shimmer_lilac",
+            "name":"Shimmer"
+          }
+        ],
+        "header":"",
+        "section":"",
+        "type":"icons-concerns",
+        "target":{
+
+        }
+      },
+      
+      {
+        "items":[
+
+        ],
+        "header":" ",
+        "description":" ",
+        "section":" ",
+        "type":"cta_card"
+      },
+      {
+        "background_image":{
+
+        },
+        "header":"",
+        "description":"",
+        "type":"details-section",
+        "items":[
+
+        ],
+        "section":""
+      },
+      
+      {
+        "background_image":{
+
+        },
+        "header":"",
+        "description":"",
+        "type":"needs-section",
+        "items":[
+
+        ],
+        "tags":[
+          {
+            "name":"",
+            "hex_background":""
+          }
+        ],
+        "section":""
+      },
+      
+      {
+        "header":"",
+        "items":[
+          {
+            "background_image":{
+
+            },
+            "type":"ingredients",
+            "header":"",
+            "description":"",
+            "tags":[
+              {
+                "name":"",
+                "hex_background":""
+              }
+            ]
+          }
+        ],
+        "type":"ingredients-scroll",
+        "tabular_info":{
+          "row_value":"",
+          "column_value":"",
+          "table_sections":[
+            {
+              "items":[
+                {
+                  "name":"Titanium Oxide",
+                  "value":1
+                },
+                {
+                  "name":"AHA",
+                  "value":1
+                }
+              ],
+              "name":"skingoal-1",
+              "type":"table-row"
+            }
+          ]
+        },
+        "section":""
+      }
+    ]
+  }
+}
