@@ -37,7 +37,7 @@
         ],
         "header":"How does this work?",
         "description":" Dermatologist designed skin quiz recommendations",
-        "cta_text": "Find Out"
+        "cta_text": "Find Out",
         "section":"cta_card",
         "type":"cta_card"
       },
@@ -46,7 +46,7 @@
 
         },
         "header":"What Your skincode means",
-        "description":"DSPT: Dry, sensitive, pigmented and tight (non-wrinkled) skin generally has acne breakouts"
+        "description":"DSPT: Dry, sensitive, pigmented and tight (non-wrinkled) skin generally has acne breakouts",
         "type":"details-section",
         "items":[
 
