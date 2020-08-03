@@ -76,6 +76,22 @@
             },
             "target":{
 
+            },
+            "type":""
+          }
+        ],
+        "header":"Personalised Stories for you",
+        "section":"shop-grid",
+        "type":"shop-grid"
+      },
+      {
+        "items":[
+          {
+            "media":{
+
+            },
+            "target":{
+
             }
           }
         ],
