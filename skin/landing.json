@@ -1,0 +1,108 @@
+{
+  "data":{
+    "sections":[
+      {
+        "header":"Hi, Robert",
+        "background_image":{
+          "dominant_color":"#c1d8cc",
+          "height":"602px",
+          "loop":false,
+          "thumbnail_image_url":null,
+          "type":"image",
+          "url":"https://kult-assets.imgix.net/skincare/quiz/after.jpg",
+          "uuid":"after",
+          "width":"400px"
+        },
+        "section":"skin_kult",
+        "skin_code_icons":[
+          "skin_code_oily_texture_border",
+          "skin_code_sensitive_texture_border",
+          "skin_code_pigmented_texture_border",
+          "skin_code_wrinkled_texture_border"
+        ],
+        "skin_concern_icons":[
+          "concern_anti_aging_border",
+          "concern_pores_border",
+          "concern_dullness_border"
+        ],
+        "skin_quiz_taken":true,
+        "target":{
+          "sub_title":null,
+          "title":null,
+          "type":"skin_kult",
+          "uuid":"skin"
+        },
+        "type":"skin_kult"
+      },
+      {
+        "media":{
+          "dominant_color":"#c1d8cc",
+          "height":"602px",
+          "loop":false,
+          "thumbnail_image_url":null,
+          "type":"image",
+          "url":"https://kult-assets.imgix.net/skincare/quiz/after.jpg",
+          "uuid":"after",
+          "width":"400px"
+        },
+        "is_loved":true,
+        "cta_text":"Link Button Text",
+        "show_cta":true,
+        "target":{
+
+        },
+        "type":"tips-section",
+        "section":"tips-section"
+      },
+      {
+        "items":[
+          {
+            "icon":"concern_pores",
+            "name":"Pores",
+            "target":{
+
+            }
+          }
+        ],
+        "header":"Target your concerns",
+        "section":"icons-concerns",
+        "type":"icons-concerns"
+      },
+      {
+        "items":[
+          {
+            "media":{
+
+            },
+            "target":{
+
+            }
+          }
+        ],
+        "header":"Stories for you",
+        "section":"stories-list",
+        "cta_text":"See all stories",
+        "show_cta":true,
+        "target":{
+
+        },
+        "type":"stories-list"
+      },
+      {
+        "items":[
+          {
+            "media":{
+
+            },
+            "target":{
+
+            }
+          }
+        ],
+        "header":"Categories for you",
+        "section":"categories-caraousel",
+        "type":"categories-caraousel"
+      }
+    ]
+  }
+}
