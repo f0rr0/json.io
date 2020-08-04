@@ -46,10 +46,11 @@
           "width":"400px"
         },
         "is_loved":true,
-        "cta_text":"Link Button Text",
-        "show_cta":true,
+        "cta": {
+          "text": "", // non-nullabe
+          "background: "#FFFFFF"
+        }
         "target":{
-
         },
         "type":"tips-section",
         "section":"tips-section"
