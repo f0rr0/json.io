@@ -46,8 +46,10 @@
           "width":"400px"
         },
         "is_loved":true,
-        "cta_text":"Link Button Text",
-        "show_cta":true,
+        "cta": {
+          text: "",
+          background :""
+        },
         "target":{
 
         },
